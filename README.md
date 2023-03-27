@@ -2,7 +2,7 @@
 
 A basic website to quickly get a webserver up and running.
 
-On AWS, launch a new instance with an Ubuntu AMI and add the following bootstrap script:
+On AWS, launch a new instance with an Ubuntu AMI and the following bootstrap script:
 
 ```
 #!/bin/bash
