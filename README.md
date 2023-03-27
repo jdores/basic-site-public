@@ -1,3 +1,3 @@
 # basic-site-public
 
-A basic website quickly getting a webserver up and running
+A basic website to quickly get a webserver up and running
